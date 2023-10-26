@@ -37,23 +37,23 @@ skills:
     items:
     - name: Python
       description: ''
-      percent: 80
+      percent: 100
       icon: python
       icon_pack: fab
-    - name: Python
+    - name: C++
+      description: ''
+      percent: 80
+      icon: c++
+      icon_pack: fab
+    - name: R
       description: ''
       percent: 80
       icon: python
       icon_pack: fab
-    - name: Python
+    - name: Pytorch
       description: ''
       percent: 80
-      icon: python
-      icon_pack: fab
-    - name: Python
-      description: ''
-      percent: 80
-      icon: python
+      icon: pytorch
       icon_pack: fab
     - name: Data Science
       description: ''
