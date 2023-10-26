@@ -40,6 +40,21 @@ skills:
       percent: 80
       icon: python
       icon_pack: fab
+    - name: Python
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
+    - name: Python
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
+    - name: Python
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
     - name: Data Science
       description: ''
       percent: 100
@@ -54,6 +69,16 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 60
