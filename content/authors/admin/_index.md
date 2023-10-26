@@ -1,7 +1,4 @@
 ---
-# Display name
-title: 吳健雄
-
 # Name pronunciation (optional)
 name_pronunciation: Bourahima COULIBALY
 
@@ -92,7 +89,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/coulibaly-b
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
